@@ -16,7 +16,7 @@ import {
   X,
   Sparkles
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { useSound } from './SoundManager';
 
 interface ROICalculatorProps {

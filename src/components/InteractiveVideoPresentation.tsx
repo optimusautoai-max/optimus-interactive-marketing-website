@@ -31,7 +31,7 @@ import {
   MessageSquare,
   X
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { useSound } from './SoundManager';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 

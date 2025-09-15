@@ -19,7 +19,7 @@ import {
   ExternalLink,
   Zap
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { trackEvent } from './TrafficAnalytics';
 
 interface SocialStats {

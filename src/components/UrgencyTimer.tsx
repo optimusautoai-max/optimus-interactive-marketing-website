@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { motion } from "motion/react";
+import { motion } from 'framer-motion';
 import { Badge } from "./ui/badge";
 import { Card, CardContent } from "./ui/card";
 import { Clock, AlertTriangle, Flame, Users, TrendingDown } from "lucide-react";

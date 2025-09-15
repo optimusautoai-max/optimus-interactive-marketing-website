@@ -2,7 +2,7 @@ import React, { useState, useEffect, Suspense, lazy } from "react";
 import { Button } from "./ui/button";
 import { Card, CardContent } from "./ui/card";
 import { Badge } from "./ui/badge";
-import { motion } from "motion/react";
+import { motion } from 'framer-motion';
 import { Rocket, Crown, CheckCircle, Clock } from "lucide-react";
 import { useSound } from "./SoundManager";
 import { HeroSection } from "./HeroSection";

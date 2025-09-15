@@ -5,7 +5,7 @@ import { Badge } from './ui/badge';
 import { Input } from './ui/input';
 import { Label } from './ui/label';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from './ui/tabs';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { useSound } from './SoundManager';
 import {
   Users,

@@ -30,7 +30,7 @@ import {
   Shield,
   Star
 } from 'lucide-react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { useSound } from './SoundManager';
 import exampleImage from 'figma:asset/4c34e2e985b71a22ee4136fc8f0ce191f3146f68.png';
 

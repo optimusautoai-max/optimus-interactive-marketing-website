@@ -19,7 +19,7 @@ import {
   BarChart3,
   Calendar
 } from 'lucide-react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 import { useSound } from './SoundManager';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 

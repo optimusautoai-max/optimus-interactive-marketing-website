@@ -16,7 +16,7 @@ import {
   Image,
   FileText
 } from 'lucide-react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 
 interface SEOMetrics {
   pageSpeed: number;

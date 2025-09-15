@@ -15,7 +15,7 @@ import {
   Zap,
   DollarSign
 } from 'lucide-react';
-import { motion } from 'motion/react';
+import { motion } from 'framer-motion';
 
 // Google Analytics 4 Integration
 declare global {

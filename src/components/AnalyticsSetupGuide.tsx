@@ -15,7 +15,7 @@ import {
   Monitor,
   BarChart3
 } from 'lucide-react';
-import { motion, AnimatePresence } from 'motion/react';
+import { motion, AnimatePresence } from 'framer-motion';
 
 interface AnalyticsSetupGuideProps {
   isVisible?: boolean;
